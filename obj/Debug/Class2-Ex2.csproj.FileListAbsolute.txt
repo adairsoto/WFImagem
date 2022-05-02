@@ -1,0 +1,11 @@
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class2-Ex2\bin\Debug\Class2-Ex2.exe.config
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class2-Ex2\bin\Debug\Class2-Ex2.exe
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class2-Ex2\bin\Debug\Class2-Ex2.pdb
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class2-Ex2\obj\Debug\Class2-Ex2.csproj.AssemblyReference.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class2-Ex2\obj\Debug\Class2-Ex2.csproj.SuggestedBindingRedirects.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class2-Ex2\obj\Debug\Class2_Ex2.Form1.resources
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class2-Ex2\obj\Debug\Class2_Ex2.Properties.Resources.resources
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class2-Ex2\obj\Debug\Class2-Ex2.csproj.GenerateResource.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class2-Ex2\obj\Debug\Class2-Ex2.csproj.CoreCompileInputs.cache
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class2-Ex2\obj\Debug\Class2-Ex2.exe
+C:\Users\adair\OneDrive\Desktop\castGroup\CSharp-Intermediario\Class2-Ex2\obj\Debug\Class2-Ex2.pdb
